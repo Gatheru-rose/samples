@@ -1,3 +1,5 @@
+#! /usr/bin/env bash
+
 #find GC content in files
 #usage : bash.sh filename
 
